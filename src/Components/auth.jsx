@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 const Auth = () => {
-  return <Div>Made by Giga.shavliashvili</Div>;
+  return <Div>Tetris.org</Div>;
 };
 
 export default Auth;
