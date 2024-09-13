@@ -9,7 +9,18 @@ const LoginSignup = () => {
           <div className="underline"></div>
         </div>
         <div className="inputs"></div>
-        <div className="input"></div>
+        <div className="input">
+            <img src="" alt=''/>
+            <input type="text" placeholder="Username"/>
+        </div>
+        <div className="input">
+            <img src="" alt=''/>
+            <input type="email" placeholder="Email"/>
+        </div>
+        <div className="input">
+            <img src="" alt=''/>
+            <input type="password" placeholder="Password"/>
+        </div>
       </div>
     </div>
   );
